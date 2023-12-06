@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 Working on Stardust Labs projects<br>🌱 Currently learning web development<br>📫 How to reach me: Discord `catter#0001`
+🔭 Working on Stardust Labs projects<br>🌱 Currently learning web development<br>📫 How to reach me: Discord `catter1`
 
 
 ## 🌐 Socials:
